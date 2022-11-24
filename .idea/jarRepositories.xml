@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="diasoft" />
+      <option name="name" value="diasoft" />
+      <option name="url" value="http://maven:8080/maven2/repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="diasoft_old_mirror" />
+      <option name="name" value="diasoft_old_mirror" />
+      <option name="url" value="http://cryo:8081/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="platformrepo-snapshot" />
+      <option name="name" value="diasoft platform snapshot repository" />
+      <option name="url" value="http://platformrepo:8080/repository/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="platformrepo-release" />
+      <option name="name" value="diasoft platform release repository" />
+      <option name="url" value="http://platformrepo:8080/repository/internal/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="diasoft2" />
+      <option name="name" value="diasoft release repository" />
+      <option name="url" value="http://cvssoa:8080/maven2/repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="diasoft_snapshots" />
+      <option name="name" value="diasoft_snapshots" />
+      <option name="url" value="http://cryo:8081/nexus/content/repositories/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo.jenkins-ci.org" />
+      <option name="name" value="repo.jenkins-ci.org" />
+      <option name="url" value="http://repo.jenkins-ci.org/public/" />
+    </remote-repository>
+  </component>
+</project>
